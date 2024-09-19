@@ -1,5 +1,5 @@
 ## 💫 About Me:
-## Hi there! 👋<br><br>I'm **Mariya John**, an entry-level Full-Stack Developer with expertise in the MERN stack.<br><br>I'm looking to contribute to a collaborative team and advance in the software development field.<br><br>Feel free to explore my projects and connect with me!<br>
+### Hi there! 👋<br><br>I'm **Mariya John**, an entry-level Full-Stack Developer with expertise in the MERN stack.<br><br>I'm looking to contribute to a collaborative team and advance in the software development field.<br><br>Feel free to explore my projects and connect with me!<br>
 
 
 ## 🌐 Socials:
@@ -18,4 +18,3 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mariyajohn0&limit=5&theme=default&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
