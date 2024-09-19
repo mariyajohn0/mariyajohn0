@@ -1,5 +1,5 @@
 ### 💫 About Me:
-#### Hi there! 👋<br><br>I'm **Mariya John**, an entry-level Full-Stack Developer with expertise in the MERN stack.<br><br>I'm looking to contribute to a collaborative team and advance in the software development field.<br><br>Feel free to explore my projects and connect with me!<br>
+#### Hi there! 👋<br><br>I'm <b>**Mariya John**</b>, an entry-level Full-Stack Developer with expertise in the MERN stack.<br><br>I'm looking to contribute to a collaborative team and advance in the software development field.<br><br>Feel free to explore my projects and connect with me!<br>
 
 
 ### 🌐 Socials:
